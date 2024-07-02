@@ -1,0 +1,12 @@
+django
+flask-basicauth
+ipykernel
+openpyxl
+pandas
+pip-chill
+pylint
+pyodbc
+python-decouple
+requests
+virtualenv
+xlsxwriter
